@@ -1,0 +1,40 @@
+{"data":
+{ "urun" : {
+    "isim": "Special Pizza",
+    "kategori": "pizza",
+    "ekMalzemeFiyat": 5,
+    "fiyat": 85.50,
+    "puan": 4,
+    "yorumSayisi": 200,
+    "aciklama": "Frontend Dev olarak hala position:absolute kullanıyorsan bu çok acı pizza tam sana göre. Pizza domates, peynir ve genellikle çeşitli diğer malzemelerle kaplanmış, daha sonra geleneksel olarak odun ateşinde bir fırında yüksek sıcaklıkta pişirilen, genellikle yuvarlak, düzleştirilmiş mayalı buğday bazlı hamurdan oluşan İtalyan kökenli lezzetli bir yemektir.. Küçük bir pizzaya bazen pizzetta denir."
+  },
+  
+  "pizza" : {
+    "boyutlar": ["Kucuk", "Orta", "Buyuk"],
+    "hamurlar": ["Ince", "Orta", "Kalin"],
+    "malzemeler": [
+      "Pepperoni",
+      "Domates",
+      "Biber",
+      "Sosis",
+      "Mısır",
+      "Sucuk",
+      "Kanada Jambonu",
+      "Sucuk",
+      "Ananas",
+      "Tavuk Izgara",
+      "Jalepeno",
+      "Kabak",
+      "Soğan",
+      "Sarımsak"
+  ]
+  },
+
+  "sayfa" : {
+    "yonlendirmeler": [
+      {"isim": "Ana Sayfa", "url":""},
+      {"isim": "Siparis Olustur", "url":"order"}
+    ]
+  }
+}
+}
